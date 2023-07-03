@@ -1,0 +1,11 @@
+variable "vm_name" {}
+variable "location" {}
+variable "resource_group_name" {}
+variable "subnet_id" {}
+variable "vm_admin_username" {}
+variable "vm_admin_password" {}
+variable "private_key_path" {}
+variable "vm_domain" {}
+variable "wordpress_app_service_url" {}
+variable "ssl_certificate_path" {}
+variable "ssl_certificate_key_path" {}

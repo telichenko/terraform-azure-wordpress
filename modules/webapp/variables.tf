@@ -1,0 +1,10 @@
+variable "app_service_plan_name" {}
+variable "app_service_name" {}
+variable "location" {}
+variable "resource_group_name" {}
+variable "mysql_server" {}
+variable "mysql_admin" {}
+variable "mysql_password" {}
+variable "mysql_database" {}
+variable "git_repo_url" {}
+variable "git_branch" {}
